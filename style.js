@@ -4,3 +4,4 @@ document.querySelectorAll('.learn-more').forEach(link => {
         alert('Feature details coming soon!');
     });
 });
+
